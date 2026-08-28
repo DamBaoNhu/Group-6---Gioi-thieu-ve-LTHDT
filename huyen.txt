@@ -13,5 +13,4 @@
 => các hành động chung của nhóm ĐT sẽ cấu thành phương thức của lớp tương ứng.
 * TTHĐT theo dữ liệu:
 Là quá trình mô hình hoá các thuộc tính của lớp= thuộc tính các đối tượng tương ứng
-
 - Phương thức= hành động của đối tượng
