@@ -13,6 +13,7 @@
 + Nhóm những ĐT giống nhau
 + Mỗi nhóm ĐT đề xuất 1 lớp tương ứng
 => các hành động chung của nhóm ĐT sẽ cấu thành phương thức của lớp tương ứng.
-* Trừu tượng hóa đối tượng theo dữ liệu:
-Là quá trình mô hình hoá các thuộc tính của lớp= thuộc tính các đối tượng tương ứng
+
+7.Trừu tượng hóa đối tượng theo dữ liệu:
+Là quá trình mô hình hoá các thuộc tính của lớp là thuộc tính các đối tượng tương ứng
 - Phương thức là hành động của đối tượng
