@@ -1,0 +1,30 @@
+8. Sự kế thừa (Inheritance)
+-Lớp dẫn xuất có thể sử dụng thuộc tính và phương thức của lớp cơ sở.
+-Chỉ cần cài đặt phương thức ở lớp cơ sở, các lớp dẫn xuất có thể sử dụng lại.
+-Tránh viết code trùng lặp, giúp chương trình gọn hơn.
+-Khi thay đổi dữ liệu/chức năng chung, chỉ cần sửa một lần ở lớp cơ sở.
+
+9. Sự đóng gói
+-Che dấu sự cài đặt chi tiết bên trong phương thức
+-Che dấu dữ liệu bên trong của đối tượng 
+-Hạn chế việc sử dụng lại mã chương trình
+
+10. Tính đa hình
+-Cho phép các lớp có cùng tên phương thức với cùng tham số và kiểu trả về.
+-Lớp con có thể ghi đè (Override) phương thức của lớp cha để thực hiện theo cách riêng.
+-Khi gọi phương thức, chương trình sẽ tự xác định phương thức phù hợp dựa trên đối tượng thực tế.
+-Giúp chương trình linh hoạt và dễ mở rộng.
+
+11. Thành phần private và public
+a) Thành phần private
+- Private là thành phần riêng của lớp, bên ngoài không thể truy cập trực tiếp. 
+- Chỉ được truy nhập bên trong chính lớp đó.
+- Thường chứa
++Thuộc tính/dữ liệu của lớp.
++Phương thức trung gian phục vụ các phương thức khác.
+Giúp bảo vệ và kiểm soát dữ liệu của đối tượng.
+b) Thành phần public
+- Là phần của lớp có thể truy cập từ cả bên trong và bên ngoài lớp.
+- Thường chứa:
++Phương thức set/get để nhập, xuất hoặc truy cập dữ liệu của lớp.
++Các phương thức cung cấp chức năng, giúp đối tượng tương tác với môi trường bên ngoài.
