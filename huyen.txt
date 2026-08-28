@@ -1,0 +1,17 @@
+- Lớp= 1 tập hợp các đối tượng trong hệ thống
+- Đối tượng= 1 thực thể tồn tại trong 1 lớp
+- Tính chất: 
++, Thuộc tính lớp= thuộc tính đối tượng
++,  Lớp: khái niệm trừu tượng# Đối tượng: thực thể cụ thể
++, Đối tượng là 1 thể hiện của lớp
+- Lớp là sự trừu tượng hoá của đối tượng (TTHĐT)
+*TTHĐT theo chức năng:
+- Quá trình mô hình hoá phương thức Lớp dựa trên hành động của Đối tượng
+1. Tập hợp các hành động có thể có của ĐT
+2. Nhóm những ĐT giống nhau
+3. Mỗi nhóm ĐT đề xuất 1 lớp t/ứ
+=> các hành động chung của nhóm ĐT sẽ cấu thành phương thức của lớp tương ứng.
+* TTHĐT theo dữ liệu:
+Là quá trình mô hình hoá các thuộc tính của lớp= thuộc tính các đối tượng tương ứng
+
+- Phương thức= hành động của đối tượng
