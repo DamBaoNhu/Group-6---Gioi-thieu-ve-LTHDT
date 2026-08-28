@@ -1,1 +1,35 @@
+1. Các phương pháp lập trình qua các thời kỳ
+- Lập trình tuyến tính: Xây dựng tuần tự từ đầu đến cuối theo từng bước cụ thể. Phương pháp này đơn giản, dễ hiểu, phù hợp với các bài toán nhỏ nhưng rất khó quản lý và mở rộng khi chương trình trở nên phức tạp.
+- Lập trình cấu trúc: Chia chương trình thành các hàm hoặc chương trình con kết hợp với các cấu trúc điều khiển (điều kiện, vòng lặp). Giúp tư duy giải thuật rõ ràng hơn, nhưng vẫn hạn chế trong việc tái sử dụng mã nguồn và chưa tối ưu cho hệ thống lớn.
+- Lập trình hướng đối tượng (OOP): Tổ chức chương trình xoay quanh các đối tượng thay vì hàm đơn thuần, giúp đóng gói dữ liệu chặt chẽ, tối ưu việc tái sử dụng mã nguồn và dễ dàng bảo trì, mở rộng.
+- Phân tích và Thiết kế Hướng đối tượng gồm 6 bước:
++ Mô tả bài toán: Tìm hiểu tổng quan thực tế.
++ Đặc tả yêu cầu: Xác định rõ chức năng và ràng buộc của hệ thống.
++ Trích chọn đối tượng: Lọc ra các thực thể quan trọng.
++ Mô hình hóa lớp đối tượng: Xây dựng cấu trúc, thuộc tính và hành vi.
++ Thiết kế tổng quan: Xây dựng kiến trúc hệ thống lớn.
++ Thiết kế chi tiết: Hoàn thiện từng thành phần cụ thể trước khi lập trình.
 
+2. Lập trình hướng đối tượng là gì?
+- Lập trình hướng đối tượng (Object-Oriented Programming) là phương pháp thiết kế chương trình mô phỏng các sự vật, hiện tượng trong thế giới thực thông qua các đối tượng và lớp (class).
+- Một đối tượng là thực thể tồn tại khi chương trình chạy, được xác định bởi 3 yếu tố:
++ Định danh: Phân biệt đối tượng này với đối tượng khác.
++ Trạng thái: Các thuộc tính và giá trị hiện tại của đối tượng.
++ Hành vi: Các hoạt động mà đối tượng đó có thể thực hiện.(Ví dụ: Trong phần mềm quản lý xe, một chiếc xe Ford trắng giá 5.000 USD là một đối tượng có nhãn hiệu, màu sắc, giá cả và có thể khởi động, tăng tốc).
+
+3. Tại sao lại sử dụng lập trình hướng đối tượng?
+- Lâp trình hướng đối tượng trở thành tiêu chuẩn trong phát triển phần mềm hiện đại nhờ những ưu điểm vượt trội:
++ Tái sử dụng mã nguồn: Giảm thiểu thời gian viết code nhờ khả năng kế thừa từ các lớp đã có.
++ Dễ bảo trì và nâng cấp: Mã nguồn được chia thành các module độc lập, khi có lỗi hoặc cần thêm tính năng, ta chỉ chỉnh sửa ở đối tượng liên quan mà không ảnh hưởng toàn hệ thống.
++ Bảo mật dữ liệu tốt hơn: Tính đóng gói giúp che giấu thông tin nội bộ và chỉ cho phép truy cập qua các phương thức công khai.
++ Khả năng mở rộng cao: Rất phù hợp cho các hệ thống lớn có nhiều lập trình viên cùng tham gia phát triển.
+
+4. Khi nào nên sử dụng lập trình hướng đối tượng?
+- Phương pháp này được áp dụng rộng rãi trong các trường hợp:
++ Xây dựng phần mềm quy mô lớn, phức tạp: Các hệ thống quản lý doanh nghiệp, ngân hàng, trường học...
++ Phát triển Game: Nơi mọi nhân vật, vật phẩm, kẻ địch đều là các đối tượng độc lập có thuộc tính và hành vi riêng.
++ Dự án làm việc nhóm: Giúp phân chia công việc rõ ràng theo từng lớp/đối tượng cho các thành viên.
+
+Phần mềm cần nâng cấp lâu dài: Ứng dụng dự kiến sẽ liên tục cập nhật thêm tính năng mới trong tương lai.
+
+Kết luận: Lập trình hướng đối tượng là giải pháp tối ưu giúp thu hẹp khoảng cách giữa logic máy tính và thực tế đời sống, là nền tảng cốt lõi để xây dựng những hệ thống phần mềm chuyên nghiệp
