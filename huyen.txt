@@ -1,0 +1,19 @@
+5. Lớp đối tượng
+- Lớp là một tập hợp các đối tượng trong hệ thống
+- Đối tượng là một thực thể tồn tại trong 1 lớp
+- Tính chất: 
++ Thuộc tính lớp tương ứng với thuộc tính đối tượng
++ Lớp: khái niệm trừu tượng khác với Đối tượng: thực thể cụ thể
++ Đối tượng là 1 thể hiện của lớp
+- Lớp là sự trừu tượng hoá của đối tượng (TTHĐT)
+
+6. Trừu tượng hóa đối tượng chức năng:
+- Quá trình mô hình hoá phương thức Lớp dựa trên hành động của Đối tượng
++ Tập hợp các hành động có thể có của ĐT
++ Nhóm những ĐT giống nhau
++ Mỗi nhóm ĐT đề xuất 1 lớp tương ứng
+=> các hành động chung của nhóm ĐT sẽ cấu thành phương thức của lớp tương ứng.
+
+7.Trừu tượng hóa đối tượng theo dữ liệu:
+Là quá trình mô hình hoá các thuộc tính của lớp là thuộc tính các đối tượng tương ứng
+- Phương thức là hành động của đối tượng
